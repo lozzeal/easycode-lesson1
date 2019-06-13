@@ -67,9 +67,9 @@ img {
 }
 
 /* Для main */
-/* .flex-wrap {
+.flex-wrap {
 	flex-wrap: wrap;
-} */
+}
 
 .text-center {
 	text-align: center;
